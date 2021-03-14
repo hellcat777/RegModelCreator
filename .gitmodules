@@ -1,0 +1,3 @@
+[submodule "systemrdl-compiler"]
+	path = systemrdl-compiler
+	url = https://github.com/SystemRDL/systemrdl-compiler
