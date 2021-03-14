@@ -1,3 +1,6 @@
 [submodule "systemrdl-compiler"]
 	path = systemrdl-compiler
 	url = https://github.com/SystemRDL/systemrdl-compiler
+[submodule "PeakRDL-uvm"]
+	path = PeakRDL-uvm
+	url = https://github.com/SystemRDL/PeakRDL-uvm
